@@ -16,6 +16,7 @@
 		EE996DED2795E6E5003DBA03 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE996DEB2795E6E5003DBA03 /* LaunchScreen.storyboard */; };
 		EE996DF82795E6E5003DBA03 /* LoginTableViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE996DF72795E6E5003DBA03 /* LoginTableViewTests.swift */; };
 		EE996E032795E6E5003DBA03 /* LoginTableViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE996E022795E6E5003DBA03 /* LoginTableViewUITests.swift */; };
+		EE996E112795E7AC003DBA03 /* LoginTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE996E102795E7AC003DBA03 /* LoginTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		EE996DFE2795E6E5003DBA03 /* LoginTableViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LoginTableViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE996E022795E6E5003DBA03 /* LoginTableViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginTableViewUITests.swift; sourceTree = "<group>"; };
 		EE996E042795E6E5003DBA03 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EE996E102795E7AC003DBA03 /* LoginTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				EE996DDD2795E6E4003DBA03 /* AppDelegate.swift */,
 				EE996DDF2795E6E4003DBA03 /* SceneDelegate.swift */,
 				EE996DE12795E6E4003DBA03 /* ViewController.swift */,
+				EE996E102795E7AC003DBA03 /* LoginTableViewCell.swift */,
 				EE996DE32795E6E4003DBA03 /* Main.storyboard */,
 				EE996DE92795E6E5003DBA03 /* Assets.xcassets */,
 				EE996DEB2795E6E5003DBA03 /* LaunchScreen.storyboard */,
@@ -265,6 +268,7 @@
 				EE996DDE2795E6E4003DBA03 /* AppDelegate.swift in Sources */,
 				EE996DE02795E6E4003DBA03 /* SceneDelegate.swift in Sources */,
 				EE996DE82795E6E4003DBA03 /* LoginTableView.xcdatamodeld in Sources */,
+				EE996E112795E7AC003DBA03 /* LoginTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
